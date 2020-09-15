@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сварочные изделия в Саранске</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <section class="main-page">
+        <div class="wrapper wrapper-nav">
+            <img src="https://static.tildacdn.com/tild3465-6331-4036-b762-363361303266/welding-helmet-vecto.png"
+                alt="logo" class="logo">
+            <div class="wrapper-nav">
+
+                <nav class="navbar navbar-expand-lg navbar-light bg-transition navbar-mb">
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse navbar-color" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                            <a class="nav-link-mr nav-link nav-link-color color" style="color: #fff;" href="
+                                #">Наши услуги</a>
+                            <a class="nav-link-mr nav-link nav-link-color" style="color: #fff;" href="
+                                #">О нас</a>
+                            <a class="nav-link-mr nav-link nav-link-color" style="color: #fff;" href="
+                                #">Обратная связь</a>
+                            <a class="nav-link-mr nav-link nav-link-color" style="color: #fff;" href="
+                                #">Контакты</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="container">
+            <h1 class="title">«Сварочные изделия»</h1>
+            <h2 class="sub-title">Саранск и Республика Мордовия</h2>
+            <a href="#" class="btn-services">
+                Наши услуги
+            </a>
+        </div>
+    </section>
+
+    <section class="about-us">
+        <div class="container">
+            <div class="wrapper-us">
+                <div class="wrapper-info">
+                    <h2 class="title-item">О нас</h2>
+                    <p class="info-item">Здравствуйте! Наша организация выполнит для вас сварочные работы любой
+                        сложности,
+                        изделия
+                        из металла! Забор, откатные и
+                        распашные ворота, оградки, навесы над автомобилем и крыльцом! Сложные металлоконструкции, резка
+                        металла!
+                        Наши
+                        специалисты выполнят все на должном уровне и умеренные сроки! Звоните, будем рады
+                        сотрудничеству.
+                    </p>
+                </div>
+                <img src=" http://kuznitsa-art.ru/files/blog/18.jpg" class="us-work" alt="work">
+            </div>
+        </div>
+    </section>
+
+    <section class="our_service">
+        <div class="container">
+            <h2 class="title-item title-item-ta">Наши услуги:</h2>
+            <div class="flex-wrapp">
+                <div class="flex-card item-card-bg-one">
+                    <div class="item-card item-card-bg-txt">
+                        <span class="flex-title-item">Заборы, цветники,<br> высокие грядки</span>
+
+                    </div>
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Козырки, каркасы,<br> стеллажи, навесы</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item flex-title-item-pt">Ограждения<br> декоративные, газонные,<br>
+                        ритуальные,
+                        строительные</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Лестницы, балконы на<br> стойках и опорах</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Беседки, мангалы, мостики</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Пандусы, настилы, перила,<br> ступени</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Металлокаркасные<br> перекрытия, перегородки</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Внешние и внутренние<br> ворота, двери, калитки</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Крыши</span>
+
+                </div>
+                <div class="flex-card">
+                    <span class="flex-title-item">Вольеры, ставни</span>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- js bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+
+
+<!-- <header>
+            <div class="wrapper wrapper-header">
+                <img src="https://static.tildacdn.com/tild3465-6331-4036-b762-363361303266/welding-helmet-vecto.png"
+                    class="logo" alt="logo">
+                <div class="wrapper-nav">
+                    <nav>
+                        <ul class="nav-item">
+                            <li class="nav-link"><a href="#" class="link-services">Наши услуги</a></li>
+                            <li class="nav-link"><a href="#" class="link-services">О нас</a></li>
+                            <li class="nav-link"><a href="#" class="link-services">Обратная связь</a></li>
+                            <li class="nav-link"><a href="#" class="link-services">Контакты</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header> -->
+
+<!-- <nav class="navbar navbar-expand-lg  bg-light">
+                    <a class="navbar-brand" href="#">Navbar</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                            <a class="nav-link nav-link-mr" href="#">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-link nav-link-mr" href="#">Features</a>
+                            <a class="nav-link nav-link-mr" href="#">Pricing</a>
+                            <a class="nav-link nwrapper-navav-link-mr" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                        </div>
+                    </div>
+                </nav> 
+            
+           
+            -->
+
+
+
+
+
+
+
+
+
+.flex-card {
+    width: 360px;
+    height: 260px;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.item-card {
+    /* background-color: url("https://dizainexpert.ru/wp-content/uploads/2019/11/zabor-iz-evroshtaketnika-foto-dizajna.jpg"); */
+}
+
+.flex-title-item {
+    text-align: center;
+    margin: 0 auto;
+    z-index: 1;
+    display: flex;
+}
+
+.flex-title-item {
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.examples_of_our_work {
+    width: 360px;
+    height: 260px;
+    z-index: 0;
+    display: flex;
+}
+
+.item-card-bg-one {
+    background-size: ;
+    background-repeat: ;
+    background: url("https://megasteels.ru/wp-content/uploads/izgotovlenie-kozyrkov-iz-metalla.jpg") 100% 100% no-repeat;
+}
+
+/* .item-card-bg-txt {
+    background: transition;
+} */
